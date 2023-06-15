@@ -25,8 +25,8 @@ const Resume = () => {
             </div>
             <div>
               <h3 className="py-2">
-                "O ponto de partida de qualquer conquista é o desejo." Napoleon
-                Hill
+                &quot;O ponto de partida de qualquer conquista é o desejo.&quot;
+                Napoleon Hill
               </h3>
               <p className="py-4">
                 Acredito que com meu conhecimento técnico como desenvolvedor
