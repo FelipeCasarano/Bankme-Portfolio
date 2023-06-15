@@ -12,7 +12,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Bankme Portfolio</title>
-        <meta name="description" content="I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences." />
+        <meta name="description" content="Esse é meu portfólio para Bankme como Desenvolvedor Full Stack." />
         <link rel="icon" href="/fav.png" />
       </Head>
       <Main />
